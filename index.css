@@ -1,0 +1,36 @@
+body, html {
+  background-color: black;
+  height: 100%;
+}
+
+.container.is-fluid{
+  padding-top: 50px;
+}
+
+.box {
+  height: 300px;
+  text-align: center;
+}
+
+#blog {
+  background-image: url("files/blog.png");
+  background-size: cover;
+  background-position: center;
+}
+
+#game {
+  background-image: url("files/colorguess.png");
+  background-size: cover;
+  background-position: center;
+}
+
+#gallery {
+  background-image: url("files/gallery.png");
+  background-size: cover;
+  background-position: center;
+}
+
+#more {
+  color: white;
+  background-color: gray;
+}
